@@ -25,7 +25,7 @@ light intensity of the nearest environment compared to similar analog implementa
 available.
 We have also used Arduino as our Data Acquisition Hardware and MATLAB/Simulink as
 the Data Acquisition Control Software.
-This setup has many advantages that will be discussed in section 3.0.
+This setup has many advantages.
 The approach employed in this project is follows the steps described below:
 
 > 1. Continuously sense the ambient light intensity using the Light Dependent Resistor, or any
