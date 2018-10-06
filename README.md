@@ -1,7 +1,9 @@
-![alt text](arch.svg)
+[![DOI](https://zenodo.org/badge/151800045.svg)](https://zenodo.org/badge/latestdoi/151800045)
 
 # lightDAQ
 automatic light intensity dimmer function using fuzzy logic.
+
+![alt text](arch.svg)
 
 #### Arduino
 The Arduino is a low-cost DAQ hardware, the variant used is the Arduino Uno, which runs
